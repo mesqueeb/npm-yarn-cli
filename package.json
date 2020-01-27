@@ -1,27 +1,39 @@
 {
-  "name": "npmyarn",
+  "name": "npm-yarn-cli",
   "version": "0.0.0",
-  "description": "npmyarn CLI will use the correct command automatically based on what the project uses!",
+  "description": "npm-yarn-cli will use the correct command automatically based on what the project uses!",
   "main": "index.js",
   "scripts": {
     "test": "ava"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mesqueeb/npmyarn.git"
+    "url": "git+https://github.com/mesqueeb/npm-yarn-cli.git"
   },
   "keywords": [
-    "npmyarn",
-    "npm-yarn",
     "npm",
-    "yarn",
+    "npmyarn",
+    "npmyarncli",
+    "npm-yarn",
+    "npm-yarn-cli",
     "npm-or-yarn",
-    "yarn-or-npm"
+    "npm-or-yarn-cli",
+    "npm-or-yarn-picker",
+    "npm-or-yarn-chooser",
+    "yarn",
+    "yarnnpm",
+    "yarnnpmcli",
+    "yarn-npm",
+    "yarn-npm-cli",
+    "yarn-or-npm",
+    "yarn-or-npm-cli",
+    "yarn-or-npm-picker",
+    "yarn-or-npm-chooser"
   ],
   "author": "Luca Ban - Mesqueeb",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mesqueeb/npmyarn/issues"
+    "url": "https://github.com/mesqueeb/npm-yarn-cli/issues"
   },
-  "homepage": "https://github.com/mesqueeb/npmyarn#readme"
+  "homepage": "https://github.com/mesqueeb/npm-yarn-cli#readme"
 }
