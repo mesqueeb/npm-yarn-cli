@@ -1,0 +1,27 @@
+{
+  "name": "npmyarn",
+  "version": "0.0.0",
+  "description": "npmyarn CLI will use the correct command automatically based on what the project uses!",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesqueeb/npmyarn.git"
+  },
+  "keywords": [
+    "npmyarn",
+    "npm-yarn",
+    "npm",
+    "yarn",
+    "npm-or-yarn",
+    "yarn-or-npm"
+  ],
+  "author": "Luca Ban - Mesqueeb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mesqueeb/npmyarn/issues"
+  },
+  "homepage": "https://github.com/mesqueeb/npmyarn#readme"
+}
